@@ -1,0 +1,4 @@
+#!/bin/zsh
+echo "Setting up Workspaces for IDEA"
+cd ./workspace
+./gradlew genIntellijRuns
