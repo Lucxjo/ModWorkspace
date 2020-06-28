@@ -1,1 +1,15 @@
-./Ludo's Mores
+Ludo's Mores
+Ludo's Mores/build.gradle
+Ludo's Mores/build/
+Ludo's Mores/gradle.properties
+Ludo's Mores/gradle/
+Ludo's Mores/gradlew
+Ludo's Mores/gradlew.bat
+Ludo's Mores/run/
+Ludo's Mores/src/
+*/build
+*/run
+*/bin
+*/.idea
+.idea
+.gradle
